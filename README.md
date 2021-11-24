@@ -1,7 +1,7 @@
 ### Hi there! I'm Faby 👋
 
-- 📚 Web Development Student at Driven Education
 - 🎓 Computer Engineering Student at UFRN
+- 📚 Web Development Student at Driven Education
 
 <!--
 **fabianylopes/fabianylopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
