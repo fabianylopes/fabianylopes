@@ -1,7 +1,7 @@
 ### Hi there! I'm Faby 👋
 
 - 🎓 Computer Engineering Student at UFRN
-- 📚 Web Development Student at Driven Education
+- 📚 Full Stack Web Developer
 
 <a href="https://wakatime.com/@c8aa7ac6-bc6e-48aa-b4a8-7836c4fe5dc5"><img src="https://wakatime.com/badge/user/c8aa7ac6-bc6e-48aa-b4a8-7836c4fe5dc5.svg" alt="Total time coded since Oct 8 2021" /></a>
 
